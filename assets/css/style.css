@@ -1,10 +1,61 @@
 body{
   background-color:#EDFAAB;
 }
-
 h1{
   font-family: 'Cedarville Cursive', cursive;
   font-size: 200%;
   text-align: center;
   color:#869D16;
 }
+
+#contenedorVerde{
+  margin-left: 300px;
+  margin-top: 10px;
+  width:800px;
+  height:500px;
+  padding: 10px;
+  background-color:#2E812E;
+  position: relative;
+}
+#contorno{
+  width: 790px;
+  height: 490px;
+  border: 3px solid white;
+  position: absolute;
+}
+.porterias{
+  margin-top:150px;
+  width: 100px;
+  height: 200px;
+  border: 3px solid white;
+  position: absolute;
+}
+.porteDerecha{
+  margin-left: 690px;
+}
+#centro{
+  margin-left:300px;
+  margin-top:150px;
+  width: 200px;
+  height: 200px;
+  border-radius:50%;
+  border:3px solid white;
+  position: absolute;
+}
+.baloncitos{
+  width: 20px;
+  height: 20px;
+  border-radius:50%;
+  background-color:white;
+  position: absolute;
+  margin-left:100px;
+  margin-top:140px;
+}
+.dos{
+  margin-left:310px;
+  margin-top:80px;
+  }
+  .tres{
+    margin-left:680px;
+    margin-top:330px;
+    }
